@@ -40,3 +40,23 @@
   font-style: normal;
   font-weight: normal;
 }
+
+/*
+ * Picadilly
+================================================================================ */
+@font-face {
+  font-family: "picadilly-regular";
+  src: url("../fonts/picadilly/Picadilly-3ax8.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+/*
+ * Neon
+================================================================================ */
+@font-face {
+  font-family: "neon-regular";
+  src: url("../fonts/neon/Retrolight-RpgVv.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
